@@ -1,1 +1,1 @@
-printf("my first project")
+print("my first project")
