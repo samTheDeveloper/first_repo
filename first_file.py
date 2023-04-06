@@ -1,5 +1,3 @@
 
 
 print("my  first project")
-
-
